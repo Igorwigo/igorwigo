@@ -44,5 +44,5 @@ I'm a Developer from Brazil 💚, **22 years old**.
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github 
    
-![Igor Valadares github stats](https://github-readme-stats.vercel.app/api?username=igorwigo)
+![igorwigo github stats](https://github-readme-stats.vercel.app/api?username=igorwigo)
 
