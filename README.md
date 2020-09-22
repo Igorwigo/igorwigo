@@ -22,12 +22,13 @@ Hi, I'm Igor,
 
 I'm a Developer from Brazil 💚, **22 years old**.
 
-**A book lover** 📕, **an aspiring musician** 🎸 and a good **video-game player** 🎮 and **Zelda** 🗡 fan. 
-
-* ✏ Weekly writer on dev.to, [follow me](https://dev.to/aryclenio). 
-* 💫 Always aiming at **usability** and **code performance** at all costs. 
-* 👽 Learning any tecnology that apears on my way.
-* 🛹 Also surfing on microcontrollers stuff.
+**F A C T SㅤA B O U TㅤM E:**
+  * Living in <strong> Brazil, Palmas - Tocantins </strong>
+  * Computer Science - In Progress
+  * Computer Science at <strong> <a href="http://ulbra-to.br/"> @CEULP/ULBRA </a> </strong>
+  * I’m currently working on Information Technology Agency <br>
+  * Lover of tech, coding, knowledge, coffee.
+ 
 
 ----
 
